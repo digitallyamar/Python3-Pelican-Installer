@@ -1,4 +1,5 @@
 #!/bin/sh
+# Author: Amarnath (@digitallyamar)
 
 pip3 install pelican markdown
 
