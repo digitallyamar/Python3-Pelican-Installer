@@ -14,15 +14,17 @@ sudo apt-get install python3-pip
 ### For Fedora Linux
 
 ```
-### For Ubuntu
+sudo yum install python3-pip
 ```
 
 
 ## How to run the Python3 Pelican Installer script
 
-In order to run the Python3 Pelican Installer script, simply issue the following command on your terminal:
+In order to run the Python3 Pelican Installer script, first clone the script and simply issue the following commands into your terminal:
 
 ```
+git clone https://github.com/digitallyamar/Python3-Pelican-Installer.git
+cd Python3-Pelican-Installer
 sudo ./Python3_Pelican_Installer.sh
 ```
 
